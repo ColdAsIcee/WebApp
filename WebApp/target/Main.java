@@ -1,7 +1,7 @@
-package com.ColdAsIcee;
+package com.ColdAsIcee.WebApp;
 
-import com.ColdAsIcee.config.SpringConfig;
-import com.ColdAsIcee.service.TestBean;
+import com.ColdAsIcee.WebApp.config.SpringConfig;
+import com.ColdAsIcee.WebApp.service.TestBean;
 import org.springframework.context.annotation.AnnotationConfigApplicationContext;
 
 public class Main {
